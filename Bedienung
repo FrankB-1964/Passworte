@@ -1,0 +1,7 @@
+Vor dem Start ui installieren
+sudo apt install zenity xclip
+
+chmod +x pw-generator.sh 
+um das Script ausführbar zu machen
+
+Starten mit ./pw-generator.sh
